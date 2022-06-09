@@ -7,6 +7,6 @@
   "compatibleCoreVersion": "9",
   "author": "Iron Monk",
   "url": "https://github.com/ironmonk88/monks-asset-library",
-  "manifest": "https://raw.githubusercontent.com/ironmonk88/monks-asset-library/master/asset.json",
-  "download": "https://raw.githubusercontent.com/ironmonk88/monks-asset-library/master/asset.zip",
+  "manifest": "https://github.com/ironmonk88/monks-asset-library/releases/latest/download/module.json",
+  "download": "https://github.com/ironmonk88/monks-asset-library/archive/1.0.0.zip"
 }
